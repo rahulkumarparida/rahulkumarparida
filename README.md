@@ -1,3 +1,8 @@
+
+
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzkwYjFmc2N1bndoeTkwb242eDR5dmczeGV2NmthaHJyYnVtc3BwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EOmYN5kVP3W2Lyn6dx/giphy.gif" alt="Alt Text" width="500" height="400" margin-top="0">
+
+
 # 💫 About Me:
 I'm a B.tech Student(2nd year).<br>
 
