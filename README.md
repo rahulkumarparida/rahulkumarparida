@@ -1,3 +1,5 @@
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGk1bWt1aXh3dmZxaGtvazRiMjJ5bDNhNzg4Ym8ybXVodWEycmpudiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/qEqiI3Oq7vBkoE236M/giphy.gif" alt="Coder Gif">
+
 # 💫 About Me:
 <h4><i>I'm a B.tech CSE Student(2nd year)</i></h4><br><h4><i>I like reading and Imagining things</i></h4><br><h4><i>I Love food :)
 </i></h4>
