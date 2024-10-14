@@ -24,7 +24,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=rahulkumarparida&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rahulkumarparida&icon=5&color=0)](https://visitcount.itsvg.in)
 [![](https://visitcount.itsvg.in/api?id=rahulkumarparida&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
