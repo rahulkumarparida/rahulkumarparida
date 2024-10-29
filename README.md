@@ -23,6 +23,10 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rahulkumarparida&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
+## Achivements of HacktoberFest(2024)
+
+[![An image of @rahulkumarparida's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rahulkumarparida)](https://holopin.io/@rahulkumarparida)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=rahulkumarparida&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
