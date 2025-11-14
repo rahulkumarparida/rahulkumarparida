@@ -63,6 +63,10 @@
 
 [![GSSoC 2024 Extd](https://img.shields.io/badge/GSSoC%202024%20Extd-Leaderboard-brightgreen?style=for-the-badge)](https://gssoc.girlscript.tech/leaderboard?year=2024Extd&username=rahulkumarparida)
 
+
+### **Forkyou Dev**
+[![ForkYou.dev Dashboard](https://img.shields.io/badge/ForkYou.dev-Profile-blue?style=for-the-badge)](https://forkyou.dev/profile/rahulkumarparida)
+
 ---
 
 ## 📈 Profile Views
