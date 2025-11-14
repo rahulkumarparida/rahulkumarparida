@@ -1,4 +1,3 @@
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGk1bWt1aXh3dmZxaGtvazRiMjJ5bDNhNzg4Ym8ybXVodWEycmpudiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/qEqiI3Oq7vBkoE236M/giphy.gif" width="100%" />
 
 # 👋 Hey, I'm Rahul Kumar Parida
 
