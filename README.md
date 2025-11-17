@@ -13,7 +13,7 @@
 - 🧠 Strong understanding of **REST APIs, authentication, permissions, ORM, routing, DB schema design**  
 - 📚 Currently exploring **system design**, **API optimization**, and **scalable architectures**  
 - 🎯 Always learning, building, and improving through real projects  
-- 🍜 I love food & imagining random stories (kept short, no cringe)
+- 🍜 I love food & imagining random stories
 
 ---
 
