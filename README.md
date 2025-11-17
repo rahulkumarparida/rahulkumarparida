@@ -1,4 +1,6 @@
 
+![Working Type Fast GIF by CC0 Studios](https://github.com/user-attachments/assets/bd29721d-39a7-4db0-84b6-770523b35188)
+
 # 👋 Hey, I'm Rahul Kumar Parida
 
 ### **Backend Developer (Django | DRF | PostgreSQL)**  
