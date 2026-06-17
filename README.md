@@ -4,7 +4,7 @@
 # 👋 Hey, I'm Rahul Kumar Parida
 
 ### **Backend Developer (Django | DRF | PostgreSQL)**  
-3rd-year CSE student at SIET, Dhenkanal — building secure, scalable backend systems and clean API-driven architectures.
+4th-year CSE student at SIET, Dhenkanal — building secure, scalable backend systems and clean API-driven architectures.
 
 ---
 
